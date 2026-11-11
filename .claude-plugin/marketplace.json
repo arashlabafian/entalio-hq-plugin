@@ -1,0 +1,14 @@
+{
+  "name": "entalio",
+  "description": "Entalio HQ for Claude Code: the hosted MCP server (sign in with your HQ login) and its skills.",
+  "owner": {
+    "name": "Entalio Oy"
+  },
+  "plugins": [
+    {
+      "name": "entalio-hq",
+      "source": "./entalio-hq",
+      "description": "Entalio HQ in Claude Code: the hosted MCP server (sign in with your HQ login) and the skills for working with it."
+    }
+  ]
+}

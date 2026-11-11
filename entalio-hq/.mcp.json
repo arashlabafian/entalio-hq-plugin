@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hq": {
+      "type": "http",
+      "url": "https://hq-86189444959.europe-west2.run.app/api/mcp"
+    }
+  }
+}
